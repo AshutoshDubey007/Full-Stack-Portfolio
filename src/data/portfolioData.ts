@@ -100,7 +100,7 @@ export const ASHUTOSH_PROFILE_DATA: ProfileData = {
       filterCategory: "ai",
       span: "md:col-span-5",
       aspectRatio: "aspect-[4/3]",
-      image: "https://images.unsplash.com/photo-1677442136019-21780efad99a?q=80&w=1200&auto=format&fit=crop",
+      image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1200&auto=format&fit=crop",
       description: "Scalable conversational AI assistant built using Python, LangChain, and REST endpoints. Leveraged FAISS vector databases and document embeddings to reduce user response time by 80% while boosting factual retrieval accuracy.",
       tags: ["LangChain", "FAISS", "Python", "RAG", "PostgreSQL", "REST APIs"],
       github: "https://github.com/AshutoshDubey007/AI-CHATBOT",
